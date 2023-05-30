@@ -1,0 +1,6 @@
+display.c:8:6:eraseBall	1
+display.c:13:6:drawBall	1
+display.c:18:6:clearDisplay	1
+display.c:23:6:drawNewGame	1
+display.c:30:6:drawGameOver	1
+display.c:36:6:drawMovePaddle	3
