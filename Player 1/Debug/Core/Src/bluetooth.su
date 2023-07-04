@@ -1,0 +1,4 @@
+../Core/Src/bluetooth.c:6:6:startBluetooth	8	static
+../Core/Src/bluetooth.c:11:6:stopBluetooth	8	static
+../Core/Src/bluetooth.c:15:6:convertPaddlesToChar	16	static
+../Core/Src/bluetooth.c:22:6:convertBallToChar	16	static

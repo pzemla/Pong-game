@@ -1,0 +1,10 @@
+../Core/Src/game.c:11:6:doGameTick	24	static
+../Core/Src/game.c:19:6:restartGame	24	static
+../Core/Src/game.c:34:6:resetGameData	24	static
+../Core/Src/game.c:52:6:gameOver	16	static
+../Core/Src/game.c:62:6:saveNewScore	16	static
+../Core/Src/game.c:68:5:checkHighScore	24	static
+../Core/Src/game.c:82:6:startGameTicks	8	static
+../Core/Src/game.c:87:6:stopGameTicks	8	static
+../Core/Src/game.c:92:6:checkGameOver	16	static
+../Core/Src/game.c:99:6:checkRestartGame	24	static

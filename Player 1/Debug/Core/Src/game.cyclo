@@ -1,0 +1,10 @@
+game.c:11:6:doGameTick	1
+game.c:19:6:restartGame	1
+game.c:34:6:resetGameData	1
+game.c:52:6:gameOver	4
+game.c:62:6:saveNewScore	1
+game.c:68:5:checkHighScore	2
+game.c:82:6:startGameTicks	1
+game.c:87:6:stopGameTicks	1
+game.c:92:6:checkGameOver	3
+game.c:99:6:checkRestartGame	2

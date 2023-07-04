@@ -1,0 +1,4 @@
+bluetooth.c:6:6:startBluetooth	1
+bluetooth.c:11:6:stopBluetooth	1
+bluetooth.c:15:6:convertPaddlesToChar	1
+bluetooth.c:22:6:convertBallToChar	1

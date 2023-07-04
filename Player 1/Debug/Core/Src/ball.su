@@ -1,0 +1,5 @@
+../Core/Src/ball.c:15:6:updateBall	16	static
+../Core/Src/ball.c:22:6:calculateBallPosition	16	static
+../Core/Src/ball.c:31:6:wallBounce	16	static
+../Core/Src/ball.c:39:6:paddleBounce	24	static
+../Core/Src/ball.c:51:6:calculatePaddleBounce	32	static

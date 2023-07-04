@@ -1,0 +1,5 @@
+paddle.c:12:5:calculateTilt	1
+paddle.c:16:6:movePaddleX	5
+paddle.c:27:6:movePaddleY	4
+paddle.c:37:6:calculateJoystickTilt	2
+paddle.c:47:6:movePlayersPaddles	1

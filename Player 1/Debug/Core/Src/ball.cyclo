@@ -1,0 +1,5 @@
+ball.c:15:6:updateBall	1
+ball.c:22:6:calculateBallPosition	1
+ball.c:31:6:wallBounce	3
+ball.c:39:6:paddleBounce	7
+ball.c:51:6:calculatePaddleBounce	1
